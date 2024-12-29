@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaliAlexis
+- 👋 Hi, I’m @ItxFlix
 - 👀 I’m interested in Developing Bots and playing sports
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on Bots
